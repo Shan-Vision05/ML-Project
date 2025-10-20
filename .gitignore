@@ -1,2 +1,50 @@
-ml_project.egg-info/
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+ENV/
+*.env
+
+# Logs
+logs/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Python egg / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE / Editor stuff
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+
+# MyPy / Pyre / Type checkers
+.mypy_cache/
+.pyre/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
