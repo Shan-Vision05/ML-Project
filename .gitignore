@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+notebook/
+artifacts/
 # Virtual environments
 .env
 .venv
